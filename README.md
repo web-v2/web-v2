@@ -21,6 +21,8 @@
 <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="Jquery" /></a>
 <a href="https://java.com/es/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
  <a href="https://php.net" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://nestjs.com" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:NestJS.svg" width="36" height="36" alt="NestJs" /></a>
+<a href="https://vuejs.org" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg" width="36" height="36" alt="VueJs" /></a>
 </p>
 
 
