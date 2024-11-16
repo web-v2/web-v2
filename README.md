@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samir Vergara V. - @web-v2
 - 👀 I’m interested in continuing to learn every day.
-- 🌱 I’m currently learning Typescript, Vue.js, Nest.js
+- 🌱 I’m currently learning Typescript, Angular
 - 💞️ I’m looking to collaborate on projects to learn and generate extra money.
 - 📫 How to reach me +57 3004122688
 
