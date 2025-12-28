@@ -28,7 +28,7 @@
  -->
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2)](https://github.com/web-v2/github-readme-stats)
 
 <!---
 web-v2/web-v2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
