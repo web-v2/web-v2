@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on projects to learn and generate extra money.
 - 📫 How to reach me +57 3004122688
 
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=web-v2)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ### Skills
 
 
