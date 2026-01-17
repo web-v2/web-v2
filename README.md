@@ -31,18 +31,6 @@
 ### Contributions
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=web-v2)](https://github.com/LordDashMe/github-contribution-stats/)
 
-### Stats
-[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2)](https://github.com/anuraghazra/github-readme-stats)
-
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2&hide=contribs,prs)
-
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2&show_icons=true)
-
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2&commits_year=2025)
-
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-v2&show_icons=true&theme=radical)
 
 <!---
 web-v2/web-v2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
